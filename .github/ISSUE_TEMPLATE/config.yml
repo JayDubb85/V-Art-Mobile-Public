@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Email support
+    url: mailto:v-art.scoured224@passmail.net
+    about: Use email if you do not want to file a public GitHub issue.
